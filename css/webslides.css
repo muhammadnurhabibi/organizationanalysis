@@ -3590,9 +3590,9 @@ Cards
 /*===CTA (Call to Action - Numbers, Price, Promo...)  ===== */
 @media (min-width: 768px) {
   .cta .benefit {
-    -o-border-image: linear-gradient(90deg, transparent, rgba(0, 0, 0, 0.4) 50%, transparent) 1 100%;
+    -o-border-image: linear-gradient(90deg, transparent, rgba(255, 255, 255, 1) 50%, transparent) 1 100%;
        border-image: -webkit-gradient(linear, left top, right top, from(transparent), color-stop(50%, rgba(0, 0, 0, 0.4)), to(transparent)) 1 100%;
-       border-image: linear-gradient(90deg, transparent, rgba(0, 0, 0, 0.4) 50%, transparent) 1 100%;
+       border-image: linear-gradient(90deg, transparent, rgba(255, 255, 255, 1) 50%, transparent) 1 100%;
     border-left-width: 1px;
     border-style: solid; } }
 
